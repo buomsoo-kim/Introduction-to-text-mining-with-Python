@@ -3,7 +3,7 @@
 * All the materials are provided in Korean 
 
 ## Lecture notes and source codes for lab sessions of the lecture 
-- website: http://bdi.snu.ac.kr/academy/portal/
+- website: http://bdi.snu.ac.kr/udsl/
 
 ### Contents
 - Session 0. Python primer
